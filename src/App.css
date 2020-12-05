@@ -24,6 +24,32 @@
   color: white;
 }
 
+#div
+{
+  margin-top: 10%;
+  margin-left: 40%;
+  margin-right: 40%;
+  border-radius: 20px;
+  border: none;
+  background-color: chartreuse;
+}
+
+.search
+{
+  margin-left: 25%;
+  width: 100px;
+}
+h2,h4
+{
+  margin-left: 20%;
+}
+
+.img
+{
+  background-color: #61dafb;
+  margin-left: 30%;
+}
+
 .App-link {
   color: #61dafb;
 }
